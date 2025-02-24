@@ -101,3 +101,4 @@ The implementation showcases how deep learning techniques can be applied to real
 
 *OUTPUT*:
 
+![Image](https://github.com/user-attachments/assets/4b10f7e1-f615-4528-be27-541e1051b2b4)
